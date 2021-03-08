@@ -1,2 +1,2 @@
 # hello.py script by Christopher Grillo
-print 'Hello World, it is always a good day in Florida!'
+print 'Hello World from Python!'
