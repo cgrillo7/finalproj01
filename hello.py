@@ -1,2 +1,2 @@
 # hello.py script by Christopher Grillo
-print 'Hello World from Python!!'
+print 'Hello World from Christopher Grillo!!'
